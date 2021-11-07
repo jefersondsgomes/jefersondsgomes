@@ -25,4 +25,7 @@
   <a href="https://medium.com/@jefersondsgomes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jefersondsgomes" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Jefersondsgomes" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/jefersondsgomes/jefersondsgomes/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
